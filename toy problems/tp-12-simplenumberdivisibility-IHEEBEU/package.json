@@ -1,0 +1,23 @@
+{
+  "name": "rbktn-tp-12-simplenumberdivisibility",
+  "version": "1.0.0",
+  "description": "## You can always test your code by running `npm test`",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBK-Tunisia-Assignments/rbktn-tp-12-simpleNumberDivisibility.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-12-simpleNumberDivisibility/issues"
+  },
+  "homepage": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-12-simpleNumberDivisibility#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

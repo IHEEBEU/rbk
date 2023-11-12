@@ -1,0 +1,22 @@
+.listItem {
+    color: blue;
+  }
+#listItem{
+  color: blue;
+}
+#importantItem{
+  color: red;
+}
+h1{
+  font-family:  helvetica;
+}
+  /*
+  Question: Why does adding an ID change the color of the list item?
+  Answer here: the changes applied in css target only that id and it overcomes the changes before and the last style in css will be applied
+  */
+  
+  div {
+    margin-left: 42.75%;
+    text-align: center;
+    display: inline-block;
+  }

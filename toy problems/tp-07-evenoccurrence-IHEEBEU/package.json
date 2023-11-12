@@ -1,0 +1,26 @@
+{
+  "name": "rbktn-tp-07-evenoccurrence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBK-Tunisia-Assignments/rbktn-tp-07-evenOccurrence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-07-evenOccurrence/issues"
+  },
+  "homepage": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-07-evenOccurrence#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "rbktn-tp-09-treedfselect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBK-Tunisia-Assignments/rbktn-tp-09-treeDFSelect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-09-treeDFSelect/issues"
+  },
+  "homepage": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-09-treeDFSelect#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

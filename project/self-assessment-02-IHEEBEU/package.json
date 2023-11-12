@@ -1,0 +1,17 @@
+{
+  "name": "warmup-",
+  "version": "1.0.0",
+  "description": "rbk warmups",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Houssem Bouraoui",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "rbktn-tp-20-asyncmap",
+  "version": "1.0.0",
+  "description": "## You can always test your code by running `npm test`",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest main.spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBK-Tunisia-Assignments/rbktn-tp-20-asyncMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-20-asyncMap/issues"
+  },
+  "homepage": "https://github.com/RBK-Tunisia-Assignments/rbktn-tp-20-asyncMap#readme",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "jest-extended": "^0.11.5"
+  },
+  "devDependencies": {}
+}

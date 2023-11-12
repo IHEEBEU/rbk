@@ -1,0 +1,23 @@
+{
+  "name": "tp-08-rockpaperscissors",
+  "version": "1.0.0",
+  "description": "## You can always test your code by running `npm test`",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBK-Tunisia-Assignments/tp-08-rockPaperScissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBK-Tunisia-Assignments/tp-08-rockPaperScissors/issues"
+  },
+  "homepage": "https://github.com/RBK-Tunisia-Assignments/tp-08-rockPaperScissors#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

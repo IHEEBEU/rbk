@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css?family=Francois+One|PT+Serif:400,400i,700,700i");
+
+body {
+  margin: 0px;
+  color: #2c3e50;
+  background-color: #ecf0f1;
+  font-size: 1.1em;
+}
+
+.main {
+  width: 590px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid #77777769;
+  background-color: #fdfdfd;
+  box-shadow: 0 0 1em #80808066;
+  border-radius: 4px;
+}
+
+.todo-list {
+  font-size: 35px;
+  font-family: "Francois One";
+  margin-bottom: 10px;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  height: 100px;
+  padding:10px
+}
+.nav--logo{
+  height: 100%;
+  margin-left: 2%;
+}
+.nav--inputs {
+  height: 70px;
+  margin-left: auto;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+#nav--submit{
+  margin-left: 10px;
+}
+#nav--avatar{
+  height: 100%;
+  margin-right: 10px;
+}
+.wrapper{
+  margin-left: 5%;
+    height: 35rem;
+    width: 90%;
+}
+.task--main{
+  margin-left: 10%;
+  background-color: #2c3e50;
+  height: 100%;
+  width: 80%;
+}
+.search--div{
+  text-align: center;
+  margin-top: 15px;
+}
+.search--bar{
+  width: 50%;
+  padding: 10px;
+}
+.search--bar::placeholder{
+  padding:10px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+.search--btt{
+  padding: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.contain--div{
+  margin-top: 2%;
+  margin-left: 18%;
+  display: flex;
+  height: 84%;
+  width: 64%;
+  overflow-y: auto;
+  background-color: white;
+  flex-direction: column;
+}
+.card{
+  display: flex;
+  align-items: center;
+}
+.contain--title{
+  margin-left:10px;
+  height: auto;
+  width: fit-content;
+}
+.img--logo{
+  height: 30px;
+    margin-left: auto;
+}
